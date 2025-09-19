@@ -1,0 +1,11 @@
+Judul: Indeks Literasi Digital Indonesia 2018-2024
+Keterangan: Data gabungan dari Kemenkominfo, Katadata, dan Laporan Kinerja Pemerintah
+
+Tahun,Indeks,Sumber,Link,Indeks_interpolasi,Visualisasi
+2018,3.47,Kemenkominfo 2018,https://kominfo.go.id/,3.47,grafik_batang_literasi_digital.png; grafik_garis_literasi_digital.png
+2019,,Tidak tersedia (resmi tidak dipublikasikan),,3.465,grafik_batang_literasi_digital.png; grafik_garis_literasi_digital.png
+2020,3.46,Kemenkominfo & Katadata 2020,https://katadata.co.id/,3.46,grafik_batang_literasi_digital.png; grafik_garis_literasi_digital.png
+2021,3.49,Kemenkominfo & Katadata 2021,https://katadata.co.id/,3.49,grafik_batang_literasi_digital.png; grafik_garis_literasi_digital.png
+2022,,Katadata (akan dicoba scraping),https://katadata.co.id/digital/berita/6385980a3c2e1/indeks-literasi-digital-indonesia-naik-jadi-3-54-di-2022,3.586666666666667,grafik_batang_literasi_digital.png; grafik_garis_literasi_digital.png
+2023,,Tidak tersedia (resmi tidak dipublikasikan),,3.683333333333333,grafik_batang_literasi_digital.png; grafik_garis_literasi_digital.png
+2024,3.78,Laporan Kinerja Pemerintah 2024,https://kinerja.go.id/,3.78,grafik_batang_literasi_digital.png; grafik_garis_literasi_digital.png
